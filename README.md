@@ -5,6 +5,6 @@
 ## Aplicación **CRUD** (*Create, Read, Update, Delete*) en Spring Boot
 
 * Spring Security
-* Hibernate JPA con MySQL, 
+* Hibernate JPA con MySQL 
 * Internacionalización con Thymeleaf
 * Itegración con librerias Bootstrap, FontAwesome y WebJars.
