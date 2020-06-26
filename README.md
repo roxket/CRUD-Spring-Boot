@@ -7,4 +7,4 @@
 * Spring Security
 * Hibernate JPA con MySQL 
 * Internacionalización con Thymeleaf
-* Itegración con librerias Bootstrap, FontAwesome y WebJars.
+* Integración con librerías Bootstrap, FontAwesome y WebJars.
